@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Nivritha\Projects\Skillfied_Projects\Breast_Cancer_prediction\breast-cancer-prediction-app2\env_bcpa
+set VIRTUAL_ENV=D:\Nivritha\Projects\Skillfied_Projects\Breast_Tumor_Classifier\Breast_Tumor_Classifier_App\env_bcpa
 
 if not defined PROMPT set PROMPT=$P$G
 

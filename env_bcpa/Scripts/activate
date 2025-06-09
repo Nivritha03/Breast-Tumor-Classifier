@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Nivritha\Projects\Skillfied_Projects\Breast_Cancer_prediction\breast-cancer-prediction-app2\env_bcpa"
+VIRTUAL_ENV="D:\Nivritha\Projects\Skillfied_Projects\Breast_Tumor_Classifier\Breast_Tumor_Classifier_App\env_bcpa"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
